@@ -1,5 +1,5 @@
 {
-    "name": "samehelhawary/laravel-websockets",
+    "name": "marcelo-correa/laravel-websockets",
     "description": "An easy to launch a Pusher-compatible WebSockets server for Laravel.",
     "keywords": [
         "beyondcode",
@@ -8,7 +8,7 @@
         "php"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/samehelhawary/laravel-websockets",
+    "homepage": "https://github.com/MarceloSantosCorrea/laravel-websockets",
     "authors": [
         {
             "name": "Marcel Pociot",
